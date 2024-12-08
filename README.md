@@ -45,9 +45,6 @@ Este é o meu portfólio desenvolvido utilizando ReactJS. O objetivo do projeto 
    npm start
    ```
 
-5. Acesse o projeto no navegador:
-   - URL: [Link Portfólio](https://andredevfjs.vercel.app/)
-
 ## Estrutura do Projeto
 
 ```plaintext
@@ -63,7 +60,7 @@ src/
 - **Nome:** Marcio André
 - **E-mail:** andreonlinemt@yahoo.com
 - **LinkedIn:** [Seu LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/marcioandre-dev))
-- **Portfólio:** [Seu Portfólio](https://seu-portfolio.netlify.app)
+- **Portfólio:** [Portfólio](https://andredevfjs.vercel.app/)
 
 ---
 
