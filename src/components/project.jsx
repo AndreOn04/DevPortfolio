@@ -6,7 +6,7 @@ import Ecommerce from '../assets/E-commerce.png';
 import Shopping from '../assets/myshopeasy.png';
 import FitClub from '../assets/fitCLub.png';
 import NetFlix from '../assets/netflix.png';    
-import Cards from './Cards';
+import Cards from './Cards'; 
 
 const Projects = () => {
     const projectJson = [

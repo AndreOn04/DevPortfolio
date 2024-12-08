@@ -4,7 +4,7 @@ import { Navbar } from './components/Navbar';
 import Hero from './components/Hero';
 import ParticleBackground from './components/Particle';
 import About from './components/About';
-import Projects from './components/projects';
+import Projects from './components/project';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -15,7 +15,7 @@ const App = () => {
       <Navbar/ >
       <Hero/>
       <About/>
-      <Projects/>
+      <Projects />
       <Contact />
       <Footer />
     </>
