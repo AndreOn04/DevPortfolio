@@ -46,7 +46,7 @@ Este é o meu portfólio desenvolvido utilizando ReactJS. O objetivo do projeto 
    ```
 
 5. Acesse o projeto no navegador:
-   - URL: [http://localhost:3000](http://localhost:3000)
+   - URL: [http://localhost:3000](https://andredevfjs.vercel.app/)
 
 ## Estrutura do Projeto
 
