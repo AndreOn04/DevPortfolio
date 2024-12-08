@@ -59,7 +59,6 @@ src/
 
 - **Nome:** Marcio André
 - **E-mail:** andreonlinemt@yahoo.com
-- **LinkedIn:** [Seu LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/marcioandre-dev))
 - **Portfólio:** [Portfólio](https://andredevfjs.vercel.app/)
 
 ---
