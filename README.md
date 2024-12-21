@@ -15,7 +15,7 @@ Este é o meu portfólio desenvolvido utilizando ReactJS. O objetivo do projeto 
 ## Tecnologias Utilizadas
 
 - **ReactJS**: Biblioteca JavaScript para criação de interfaces dinâmicas.
-- **HTML5 e CSS3**: Estruturação e estilização da aplicação.
+- **TailwindCSS**: Estruturação e estilização da aplicação.
 
 ## Funcionalidades
 
