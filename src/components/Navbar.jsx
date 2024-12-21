@@ -6,7 +6,7 @@ import {Menu, X} from 'lucide-react';
 export const Navbar = () => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   return (
-   <header className='sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 px-4 lg:px-0'>
+   <header className='sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 px-4 lg:px-0 font-inter'>
         <div className='max-w-7xl mx-auto flex h-14 items-center'>
             <div className='md:mr-4 flex justify-between w-full'>
                 <a href="#" className='mr-6 flex items-center space-x-2'>
@@ -33,7 +33,7 @@ export const Navbar = () => {
                     <a href="#about" className="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Sobre Mim</a>
                     <a href="#project" className="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Projetos</a>
                     <a href="#contact" className="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Contatos</a>
-                </div>    
+                </div>
             </div>
         )}
    </header>

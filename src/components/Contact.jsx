@@ -7,7 +7,7 @@ import contact from '../assets/Contact.json';
 
 const Contact = () => {
   return (
-    <section id='contact' className='z-50 bg-gray-800 relative py-10 px-5 md:px-0'>
+    <section id='contact' className='z-50 bg-gray-800 relative py-10 px-5 md:px-0 font-inter'>
         <div className='mb-16 max-w-7xl mx-auto'>
             <div className='flex flex-col md:flex-row justify-between items-center'>
                 <div className='md:w-1/2 mb-8 ml-2 md:mb-0'>
@@ -23,7 +23,7 @@ const Contact = () => {
                     </div>
                     <Lottie animationData={contact} className='w[-350px] mx-auto lg:w-[500px]' />
                 </div>
-                <form className='w-full md:w-1/2 bg-gray-100 rounded-lg border border-red-300 shadow-lg shadow-red-500 p-10'> 
+                <form className='w-full md:w-1/2 bg-gray-100 rounded-lg border border-red-300 shadow-lg shadow-red-500 p-10'>
                     <h1 className='text-gray-900 text-4xl font-bold mb-7'>Contato</h1>
                     <div className='mb-4'>
                         <span className='block text-sm font-medium text-gray-700 mb-2'>E-mail</span>
@@ -35,7 +35,7 @@ const Contact = () => {
                     </div>
                 </form>
             </div>
-        </div>    
+        </div>
     </section>
   )
 }
