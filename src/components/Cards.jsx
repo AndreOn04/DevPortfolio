@@ -1,6 +1,4 @@
 /* eslint-disable react/prop-types */
-/* eslint-disable no-unused-vars */
-import React from 'react'
 import GitHub from '../assets/github (3).png';
 
 const Cards = ({item}) => {

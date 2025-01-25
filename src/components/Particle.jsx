@@ -1,5 +1,4 @@
-// eslint-disable-next-line no-unused-vars
-import { useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 
 import { loadFull } from "tsparticles";
@@ -14,8 +13,7 @@ export default function Particle() {
     });
   }, []);
 
-  // eslint-disable-next-line no-unused-vars
-  const particlesLoaded = (container) => {
+  const particlesLoaded = () => {
   };
 
   return (
@@ -59,10 +57,10 @@ export default function Particle() {
             },
             particles: {
               color: {
-                value: "#ed2218",
+                value: "#0077B5", // ed2218
               },
               links: {
-                color: "#f7655e",
+                color: "#0077B5", // f7655e
                 distance: 150,
                 enable: true,
                 opacity: 0.5,
